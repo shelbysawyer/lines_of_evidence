@@ -4,3 +4,4 @@ Data type and sourcing: The data for this project will be in the form of a .csv 
 
 gitignore: I chose to ignore the figures folder, as well as any files with the .docx or .tiff extentions. I don't need Git to track changes to any .docx files or figure images, and I also don't want it to track .tiff files (if I choose to store them in this repository) because of their size.
 
+Right now, my folders aren't showing up because they're empty. This shouldn't be a problem by Tuesday 2/9. 
